@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "CHOICE2020秋季名额表-clone",
-    "currentPage": "index.html",
+    "name": "CHOICE 2020秋季名额表",
+    "currentPage": "quota2020.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,14 +48,15 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "quota2020.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "CHOICE 乔思教育集团2020秋季名额表",
+        "meta_descr": "2020年6月19日更新",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/%E4%B9%94%E6%80%9D%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2%E5%93%81%E7%89%8C%E7%94%A8%E7%89%87-%E4%B8%8D%E5%90%AB%E5%A4%AA%E9%98%B3%E7%A0%81-640x1008.png"
       },
       "components": [
         {
