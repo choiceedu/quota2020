@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CHOICE 2020秋季名额表",
-    "currentPage": "quota2020.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
     "gdpr": false
   },
   "pages": {
-    "quota2020.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "CHOICE 乔思教育集团2020秋季名额表",
